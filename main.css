@@ -1,0 +1,61 @@
+body {
+    background-color: #e5e4e2;
+    font-family: verdana,arial,sans-serif;
+    font-size: 10px;
+}
+table.main {
+    font-size: 14px;
+    background-color: #e49b0f;
+    width: 100%;
+    max-width: 500px;
+    margin-left: auto; margin-right: auto;
+	margin-top: 10px; margin-bottom: 10px;
+    padding-right: 20px; padding-left: 20px;
+    padding-top: 20px; padding-bottom: 20px;
+    border: 2px solid #9f6c0a;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+}
+td.main {
+    padding-top: 20px; padding-bottom: 20px;
+}
+text.date {
+	font-size: 11px;
+}
+text.scope {
+	font-size: 12px;
+}
+text.monospace {
+	font-family: 'Lucida Console', Monaco, monospace;
+}
+a {
+	text-decoration: none;
+}
+a:link {
+	color: #9e1f09;
+}
+a:hover {
+	background-color: #9f6c0a;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -khtml-border-radius: 2px;
+}
+a:visited {
+	color: #9e1f09;
+}
+img {
+	width: 100%;
+	max-width: 150px;
+	height: auto;
+    border: 2px solid #9f6c0a;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+}
+.fineprint {
+    text-align: center;
+}
